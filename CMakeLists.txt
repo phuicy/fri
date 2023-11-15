@@ -1,7 +1,7 @@
 ####################################################################
 # cmake support for KUKA's Fast Robot Interface (FRI) client library
 ####################################################################
-cmake_minimum_required(VERSION 3.18)
+cmake_minimum_required(VERSION 3.16)
 
 project(FRIClient VERSION 1.0.0
         DESCRIPTION "KUKA's Fast Robot Interface client library."
